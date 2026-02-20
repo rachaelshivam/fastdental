@@ -1,0 +1,5 @@
+{
+  "name": "FastDental",
+  "description": "A high-fidelity clinical workflow overlay prototype for AI-assisted dental diagnostics and documentation, featuring an interactive odontogram and automated narrative generation.",
+  "requestFramePermissions": []
+}
